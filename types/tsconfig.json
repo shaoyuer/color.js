@@ -2,7 +2,7 @@
 	"compilerOptions": {
 		"target":"ES2018",
 		"module": "commonjs",
-		"lib": ["DOM", "ES2020"],
+		"lib": ["ES2020"],
 		"noImplicitAny": true,
 		"noImplicitThis": true,
 		"strictFunctionTypes": true,

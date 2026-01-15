@@ -1,3 +1,4 @@
+/// <reference lib="dom" />
 /**
  * @packageDocumentation
  * Defines and re-exports many types for use throughout the library.
